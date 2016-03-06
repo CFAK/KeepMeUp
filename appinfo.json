@@ -1,0 +1,44 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "constantinfakoehler@gmail.com",
+    "enableMultiJS": false,
+    "longName": "Keep Me Up",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/action_icon_plus.png",
+                "name": "IMAGE_ACTION_ICON_PLUS",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/action_icon_minus.png",
+                "name": "IMAGE_ACTION_ICON_MINUS",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/menu_icon_simplicity.png",
+                "name": "RESOURCE_ID_IMAGE_MENU_ICON_1",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Keep Me Up",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "050ee917-95b4-47c8-9d51-5f38ccbd0dfc",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
